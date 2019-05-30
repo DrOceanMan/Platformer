@@ -22,3 +22,6 @@ Demons will take one heart of health if or when you are hit by one.
 ![Level 1](https://raw.githubusercontent.com/DrOceanMan/Platformer/master/Level1.PNG)
 ![Level 2](https://raw.githubusercontent.com/DrOceanMan/Platformer/master/level2.PNG)
 ![Level 3](https://raw.githubusercontent.com/DrOceanMan/Platformer/master/level3.PNG)
+
+# Download Link:
+https://github.com/DrOceanMan/Platformer/releases
